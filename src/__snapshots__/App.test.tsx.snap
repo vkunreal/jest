@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App.tsx Snapshot 1`] = `
+<div
+  data-testid="appComp"
+>
+  <h1>
+    Enter the data:
+  </h1>
+  <input
+    data-testid="inputElem"
+    type="text"
+    value=""
+  />
+  <button
+    data-testid="btnElem"
+  >
+    Send
+  </button>
+</div>
+`;
